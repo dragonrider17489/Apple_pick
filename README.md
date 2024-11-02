@@ -7,8 +7,6 @@ YOLO Model Training: Scripts and configurations to train a YOLO model for object
 Depth Testing with Intel RealSense Framework: Code to conduct depth testing using Intel's RealSense cameras, enabling depth perception and analysis.
 Depth Frame Extraction: Utilities to split any image into a depth frame using a RealSense camera, enhancing the ability to analyze spatial information.
 
-Getting Started
-
 Prerequisites
 
 To use the code in this repository, you’ll need:
